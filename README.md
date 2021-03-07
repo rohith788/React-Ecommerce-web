@@ -1,7 +1,9 @@
-This my first React app.
+# Derscription
+An e commerce website made with React. The state management is done usign Redux and the database and backend is handled by Firebase.
 
-
-It is a simple e-commerce app with the backend in firebase.The payment is processed in Stripe(not functional). Ans the state managent is being handles by react-redux 
-
-
-https://secret-spire-48218.herokuapp.com/
+# Images
+<img src="https://github.com/rohith788/React-Ecommerce-web/blob/master/Ecommerce%20app%20images/cart.png" alt="Lamp" >
+<img src="https://github.com/rohith788/React-Ecommerce-web/blob/master/Ecommerce%20app%20images/cartpg.png" alt="Lamp" >
+<img src="https://github.com/rohith788/React-Ecommerce-web/blob/master/Ecommerce%20app%20images/signin.png" alt="Lamp" >
+# Demo
+[Website](https://secret-spire-48218.herokuapp.com/)
